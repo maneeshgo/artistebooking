@@ -1,0 +1,32 @@
+﻿<Root ReturnCode="0" TotalCount="2">
+  <List>
+    <item>
+      <GUID>89075636545655756756</GUID>
+      <PersonName>Govind Singh</PersonName>
+      <PersonGUID>6F4734B1-E629-4546-8D2F-0307F8089FC2</PersonGUID>
+      <Age>32</Age>
+      <DOB>2010-01-01</DOB>
+    </item>
+    <item>
+      <GUID>89075636545655756756</GUID>
+      <PersonName>Umang Goel</PersonName>
+      <PersonGUID>6F4734B1-E629-4546-8D2F-0307F8089FC2</PersonGUID>
+      <Age>15</Age>
+      <DOB>2010-01-01</DOB>
+    </item>
+    <item>
+      <GUID>89075636545655756756</GUID>
+      <PersonName>Amit Saini</PersonName>
+      <PersonGUID>6F4734B1-E629-4546-8D2F-0307F8089FC2</PersonGUID>
+      <Age>28</Age>
+      <DOB>2010-01-01</DOB>
+    </item>
+    <item>
+      <GUID>89075636545655756756</GUID>
+      <PersonName>Rohit Chaudhary</PersonName>
+      <PersonGUID>6F4734B1-E629-4546-8D2F-0307F8089FC2</PersonGUID>
+      <Age>85</Age>
+      <DOB>2010-01-01</DOB>
+    </item>
+  </List>
+</Root>
