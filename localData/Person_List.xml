@@ -1,5 +1,5 @@
 ﻿<Root ReturnCode="0" TotalCount="2">
-  <List>
+  <Person>
     <item>
       <GUID>89075636545655756756</GUID>
       <PersonName>Govind Singh</PersonName>
@@ -28,5 +28,27 @@
       <Age>85</Age>
       <DOB>2010-01-01</DOB>
     </item>
-  </List>
+  </Person>
+  <Project>
+    <item>
+      <GUID>89075636545655756756</GUID>
+      <Name>ZIMS</Name>
+    </item>
+    <item>
+      <GUID>89075636545655756756</GUID>
+      <Name>Social Site</Name>
+    </item>
+    <item>
+      <GUID>89075636545655756756</GUID>
+      <Name>Case Management</Name>
+    </item>
+    <item>
+      <GUID>89075636545655756756</GUID>
+      <Name>Team Task Tracker</Name>
+    </item>
+  </Project>
+  <Message>Hi, This is demo content for E-artist booking client</Message>
+  <Name>Manish Gupta</Name>
+  <Role>UI Developer</Role>
+  <Technology>Html, CSS, Javascript development</Technology>
 </Root>
